@@ -28,7 +28,7 @@ Or load from a CSV file
 2. Provide a start date.
 3. The program builds a schedule assigning:
    
- . Primary presenter
+4. Primary presenter
  
  . Backup1
  
