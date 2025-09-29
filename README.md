@@ -24,18 +24,11 @@ Or load from a CSV file
 
 🔄 Wrap-around logic ensures backups rotate evenly
 # How It Works
-Enter participants (or load from file).
-
-Provide a start date.
-
-The program builds a schedule assigning:
-
-Primary presenter
-
-Backup1
-
-Backup2
-
-After each demo, mark it as completed.
-
-Exit and restart — the schedule persists across runs.
+1. Enter participants (or load from file).
+2. Provide a start date.
+3. The program builds a schedule assigning:
+ . Primary presenter
+ . Backup1
+ . Backup2
+4. After each demo, mark it as completed.
+5. Exit and restart — the schedule persists across runs.
