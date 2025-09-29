@@ -27,8 +27,12 @@ Or load from a CSV file
 1. Enter participants (or load from file).
 2. Provide a start date.
 3. The program builds a schedule assigning:
+   
  . Primary presenter
+ 
  . Backup1
+ 
  . Backup2
-4. After each demo, mark it as completed.
-5. Exit and restart — the schedule persists across runs.
+ 
+5. After each demo, mark it as completed.
+6. Exit and restart — the schedule persists across runs.
